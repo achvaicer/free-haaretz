@@ -6,26 +6,29 @@ Se não estiver funcionando como esperado, tenha certeza de reinstalar (atualiza
 
 ## Install
 
-This extension can't be installed via the Google App Store since I couldn't care less about paying $5.00 and registering to work with it.
+Essa extensão não pode ser instalada via Google App Store pois eu não vou pagar os US$5,00 e registrá-la.
 
-You can follow these steps to install manually:
+Você pode seguir esses passos para instalá-la.:
 
- 1. Download the [extension ZIP file](https://github.com/achvaicer/free-oglobo/archive/master.zip), also located on the right side bar.
+ 1. Baixe a [extensão zipada](https://github.com/achvaicer/free-oglobo/archive/master.zip), também localizada do lado direito "Download ZIP".
 
- 2. Unzip the file.
+ 2. Extraia o arquivo.
 
- 3. In Google Chrome (or Chromium), in the address bar go to [chrome://extensions](chrome://extensions)
+ 3. No Google Chrome (ou Chromium), na barra de endereços vá para [chrome://extensions](chrome://extensions)
 
- 4. In the top right corner, click to enable **Developer Mode**.
+ 4. No lado direito a cima, clique para habilitar o **Modo Desenvolvedor**.
 
- 5. Click the **Load unpacked extension** button.
+ 5. Clique em **Carregar extensão expandida**.
 
- 6. Navigate to the folder you unziped your code to, and select it.
+ 6. Navegue e selecione a pasta onde os arquivos foram extraídos.
 
- 7. The **FreeHaaretz** extension should now be loaded
+ 7. A extensão **FreeOGlobo** deverá ser carregada.
 
-## License
+## Licença
 
-This code is in the Public Domain, do whatever you want with it, I'm not responsible.
+Este código está sob domínio público, faça o que quiser, eu não sou responsável por ele.
 
 ![Public Domain](https://i.creativecommons.org/p/mark/1.0/88x31.png)
+
+
+Baseado no [FreeHaaretz](https://github.com/yuvadm/free-haaretz)
