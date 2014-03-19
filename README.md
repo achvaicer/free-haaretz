@@ -1,10 +1,8 @@
-# Free Haaretz
+# Free O Globo
 
-A nefarious Chrome extension that easily bypasses the Haaretz paywall.
+A extensão do Chrome que facilmente passa a necessidade de pagamento às notícias do O Globo.
 
-If things aren't working as expected, make sure to reinstall (update) the extension from time to time, to make sure you have the latest code.
-
-(Looking for the [Firefox version](https://github.com/yuvadm/free-haaretz-ff)?)
+Se não estiver funcionando como esperado, tenha certeza de reinstalar (atualizar) essa extensão de tempos em tempos, para ter certeza que você está usando o código mais atualizado.
 
 ## Install
 
@@ -12,7 +10,7 @@ This extension can't be installed via the Google App Store since I couldn't care
 
 You can follow these steps to install manually:
 
- 1. Download the [extension ZIP file](https://github.com/yuvadm/free-haaretz/archive/master.zip), also located on the right side bar.
+ 1. Download the [extension ZIP file](https://github.com/achvaicer/free-oglobo/archive/master.zip), also located on the right side bar.
 
  2. Unzip the file.
 

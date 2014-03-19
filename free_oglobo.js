@@ -9,10 +9,7 @@ chrome.webRequest.onBeforeSendHeaders.addListener(
     return {requestHeaders: details.requestHeaders};
   },
   {
-    urls: [
-      'http://*.haaretz.co.il/*',
-      'http://*.haaretz.com/*',
-    ]
+    urls: ['http://*.globo.com/*']
   },
   [
     'blocking',
@@ -21,6 +18,6 @@ chrome.webRequest.onBeforeSendHeaders.addListener(
 );
 
 chrome.contentSettings.javascript.set({
-  primaryPattern: "http://*.haaretz.co.il/*",
+  primaryPattern: "http://*.globo.com/*",
   setting: "block"
 })

@@ -1,18 +1,17 @@
 {
-  "name": "FreeHaaretz",
-  "version": "0.2.2",
+  "name": "FreeOGlobo",
+  "version": "0.1.1",
   "manifest_version": 2,
-  "description": "A nefarious extension that easily bypasses the Haaretz paywall",
-  "homepage_url": "http://yuvadm.github.io/free-haaretz",
+  "description": "A nefarious extension that easily bypasses the O Globo paywall",
+  "homepage_url": "http://achvaicer.github.io/free-oglobo",
   "background": {
-    "scripts": ["free_haaretz.js"],
+    "scripts": ["free_oglobo.js"],
     "persistent": true
   },
   "permissions": [
     "contentSettings",
     "webRequest",
     "webRequestBlocking",
-    "http://*.haaretz.co.il/",
-    "http://*.haaretz.com/"
+    "http://*.globo.com/"
   ]
 }
